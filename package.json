@@ -1,7 +1,7 @@
 {
-  "name": "pathbusrestserver",
-  "version": "0.1.0",
-  "description": "Servidor para aplicativo PathBus",
+  "name": "rest-NES",
+  "version": "1.0.0",
+  "description": "Modelo de REST API com Node, Express e Sequelize",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
